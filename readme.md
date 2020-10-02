@@ -4,7 +4,7 @@
 * CRUD operations for **Creating**, **reading**, **updating** & **deleting** products
 
 ## Commands
-* base command : **node-cli <args_>**
+* base command : **procli <args_>**
 
 ### args
 * **add** or **a**
@@ -17,4 +17,4 @@
 
 * hit **npm install**
 * hit **npm link**
-* check version with **node-cli** *--version*
+* check version with **procli** *--version*
