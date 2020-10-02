@@ -1,4 +1,4 @@
-# Musky
+# Lister
 * A Node.js & MongoDB based cli product management system, build with commander, inquirer and mongoose
 
 * CRUD operations for **Creating**, **reading**, **updating** & **deleting** products
