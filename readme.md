@@ -13,7 +13,7 @@
 * **remove** *<_id>* or *<_id>*
 
 ## Installation
-**NOTE -> MongoDB should be installed locally or change the url in db/mongoose.js to use MongoDB cloud**
+**NOTE : MongoDB should be installed locally or change the url in db/mongoose.js to use MongoDB cloud**
 
 * hit **npm install**
 * hit **npm link**
