@@ -1,5 +1,5 @@
 require('./db/mongoose')
-const Product = require('./models/product')
+const Product = require('./model/product')
 
 // add a product
 const addProduct = (product) => {

@@ -1,5 +1,5 @@
 {
-  "name": "node-cli",
+  "name": "procli",
   "version": "1.0.0",
   "description": "Product Management CLI",
   "main": "index.js",
