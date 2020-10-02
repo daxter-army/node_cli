@@ -4,7 +4,7 @@
 * CRUD operations for **Creating**, **reading**, **updating** & **deleting** products
 
 ## Commands
-**node-cli <args>**
+* base command : **node-cli <args_>**
 
 ### args
 * add or a
